@@ -2,7 +2,7 @@
                                                 
 The KazPER ['kæzpə(r)] repository contains a dataset of male and female names common among the Kazakhs.
 
-# name_list.txt
+## name_list.txt
 
 1. Names on the list are in alphabetical order, with one name per line.
 2. The Kazakh spelling of a name (e.g., "Қазыбек") is followed by its Russian spelling (e.g., "Казыбек") and gender (e.g., "M"). The three are separated by a tab.
