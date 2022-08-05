@@ -1,5 +1,5 @@
 # KazPER
-
+```
 KKKKKKKKK    KKKKKKK                                   PPPPPPPPPPPPPPPPP   EEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   
 K:::::::K    K:::::K                                   P::::::::::::::::P  E::::::::::::::::::::ER::::::::::::::::R  
 K:::::::K    K:::::K                                   P::::::PPPPPP:::::P E::::::::::::::::::::ER::::::RRRRRR:::::R 
@@ -16,7 +16,7 @@ K:::::::K   K::::::Ka::::a    a:::::a   z::::::zzzzzzzzPP::::::PP          EE:::
 K:::::::K    K:::::Ka:::::aaaa::::::a  z::::::::::::::zP::::::::P          E::::::::::::::::::::ER::::::R     R:::::R
 K:::::::K    K:::::K a::::::::::aa:::az:::::::::::::::zP::::::::P          E::::::::::::::::::::ER::::::R     R:::::R
 KKKKKKKKK    KKKKKKK  aaaaaaaaaa  aaaazzzzzzzzzzzzzzzzzPPPPPPPPPP          EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR
-                                                                                                          
+```                                                                                                          
 The KazPER ['kæzpə(r)] repository contains a dataset of male and female names common among the Kazakhs.
 
 ## name_list.txt
