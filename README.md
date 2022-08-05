@@ -1,5 +1,22 @@
 # KazPER
-                                                
+
+KKKKKKKKK    KKKKKKK                                   PPPPPPPPPPPPPPPPP   EEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   
+K:::::::K    K:::::K                                   P::::::::::::::::P  E::::::::::::::::::::ER::::::::::::::::R  
+K:::::::K    K:::::K                                   P::::::PPPPPP:::::P E::::::::::::::::::::ER::::::RRRRRR:::::R 
+K:::::::K   K::::::K                                   PP:::::P     P:::::PEE::::::EEEEEEEEE::::ERR:::::R     R:::::R
+KK::::::K  K:::::KKK  aaaaaaaaaaaaa   zzzzzzzzzzzzzzzzz  P::::P     P:::::P  E:::::E       EEEEEE  R::::R     R:::::R
+  K:::::K K:::::K     a::::::::::::a  z:::::::::::::::z  P::::P     P:::::P  E:::::E               R::::R     R:::::R
+  K::::::K:::::K      aaaaaaaaa:::::a z::::::::::::::z   P::::PPPPPP:::::P   E::::::EEEEEEEEEE     R::::RRRRRR:::::R 
+  K:::::::::::K                a::::a zzzzzzzz::::::z    P:::::::::::::PP    E:::::::::::::::E     R:::::::::::::RR  
+  K:::::::::::K         aaaaaaa:::::a       z::::::z     P::::PPPPPPPPP      E:::::::::::::::E     R::::RRRRRR:::::R 
+  K::::::K:::::K      aa::::::::::::a      z::::::z      P::::P              E::::::EEEEEEEEEE     R::::R     R:::::R
+  K:::::K K:::::K    a::::aaaa::::::a     z::::::z       P::::P              E:::::E               R::::R     R:::::R
+KK::::::K  K:::::KKKa::::a    a:::::a    z::::::z        P::::P              E:::::E       EEEEEE  R::::R     R:::::R
+K:::::::K   K::::::Ka::::a    a:::::a   z::::::zzzzzzzzPP::::::PP          EE::::::EEEEEEEE:::::ERR:::::R     R:::::R
+K:::::::K    K:::::Ka:::::aaaa::::::a  z::::::::::::::zP::::::::P          E::::::::::::::::::::ER::::::R     R:::::R
+K:::::::K    K:::::K a::::::::::aa:::az:::::::::::::::zP::::::::P          E::::::::::::::::::::ER::::::R     R:::::R
+KKKKKKKKK    KKKKKKK  aaaaaaaaaa  aaaazzzzzzzzzzzzzzzzzPPPPPPPPPP          EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRR
+                                                                                                          
 The KazPER ['kæzpə(r)] repository contains a dataset of male and female names common among the Kazakhs.
 
 ## name_list.txt
