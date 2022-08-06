@@ -1,3 +1,5 @@
+<style>H1{color:Blue;}</style>
+
 # KazPER
 ```
 KKKKKKKKK    KKKKKKK                                   PPPPPPPPPPPPPPPPP   EEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   
