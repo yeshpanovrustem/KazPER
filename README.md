@@ -1,5 +1,3 @@
-<style>#{color:Blue;}</style>
-
 # KazPER
 ```
 KKKKKKKKK    KKKKKKK                                   PPPPPPPPPPPPPPPPP   EEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   
