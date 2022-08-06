@@ -1,4 +1,4 @@
-<style>H1{color:Blue;}</style>
+<style>#{color:Blue;}</style>
 
 # KazPER
 ```
