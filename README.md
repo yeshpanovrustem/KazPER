@@ -22,7 +22,7 @@ The KazPER ['kæzpə(r)] repository contains a dataset of male and female names 
 ## name_list.txt
 
 1. Names on the list are in alphabetical order, with one name per line.
-2. The Kazakh spelling of a name (e.g., "Қазыбек") is followed by its Russian spelling (e.g., "Казыбек") and gender (e.g., "M"). The three are separated by a tab.
+2. The Kazakh spelling of a name (e.g., "Айгүл") is followed by its Russian spelling (e.g., "Айгуль") and gender (e.g., "F"). The three are separated by a tab.
 
 | kk  | ru | gender
 | ------------- | ------------- | ------------- 
@@ -33,6 +33,7 @@ The KazPER ['kæzpə(r)] repository contains a dataset of male and female names 
 | ...  | ... | ... 
 | Үміт  | Умит | F 
 | Үміт  | Умит | M 
+| ...  | ... | ... 
 
 3. Some names can be both male and female (e.g., "Үміт"). In this case, the names are recorded twice: once as a male name and once as a female name.
 4. As of August 6 2022, the total number of names on the list is 5,280, of which 3,772 are male names, 1,508 are female names, and 51 names can be both.
