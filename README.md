@@ -26,6 +26,7 @@ The KazPER ['kæzpə(r)] repository contains a dataset of male and female names 
 
 | kk  | ru | gender
 | :---: | :---: | :---: |
+| :---: | :---: | :---: |
 | Айгүл  | Айгуль | F |
 | ...  | ... | ... |
 | Қазыбек  | Казыбек | M |
