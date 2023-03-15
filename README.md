@@ -27,4 +27,7 @@ The KazPER ['kæzpə(r)] repository contains a dataset of male and female names 
 | ...  | ... | ... | ... |
 
 3. Some names can be both male and female (e.g., "Үміт"). In this case, the names are recorded twice: once as a male name and once as a female name.
-4. As of March 15 2023, the total number of names on the list is 5,280, of which 3,772 are male names, 1,508 are female names, and 51 names can be both.
+4. As of March 15 2023, the total number of names on the list is 5,280.
+4.1. 3,772 are male names,
+4.2. 1,508 are female names,
+4.3. 51 are female and male names.
