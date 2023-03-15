@@ -14,7 +14,7 @@ The KazPER ['kæzpə(r)] repository contains a dataset of male and female names 
 ## name_list.csv
 
 1. Names on the list are in alphabetical order, with one name per line.
-2. The Kazakh spelling of a name (e.g., "Айгүл") is followed by its Russian (e.g., "Айгуль"), English (e.g., "Aigul") spelling, and gender (e.g., "F"), and are separated by a comma.
+2. The Kazakh (e.g., "Айгүл"), Russian (e.g., "Айгуль"), and English (e.g., "Aigul") spellings of a name and the corresponding gender (e.g., "F") are separated by commas.
 
 | kk  | ru | en | gender|
 | :---: | :---: | :---: | :---: |
