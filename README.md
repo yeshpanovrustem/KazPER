@@ -16,14 +16,14 @@ The KazPER ['kæzpə(r)] repository contains a dataset of male and female names 
 1. Names on the list are in alphabetical order, with one name per line.
 2. The Kazakh (e.g., "Айгүл"), Russian (e.g., "Айгуль"), and English (e.g., "Aigul") spellings of a name and the corresponding gender (e.g., "F") are separated by commas.
 
-                                              | kk  | ru | en | gender|
-                                              | :---: | :---: | :---: | :---: |
-                                              | Айгүл  | Айгуль | Aigul | F |
-                                              | ...  | ... | ... | ... |
-                                              | Қазыбек  | Казыбек | Kazybek | M |
-                                              | ...  | ... | ... | ... |
-                                              | Үміт  | Умит | Umit | B |
-                                              | ...  | ... | ... | ... |
+| kk  | ru | en | gender|
+| :---: | :---: | :---: | :---: |
+| Айгүл  | Айгуль | Aigul | F |
+| ...  | ... | ... | ... |
+| Қазыбек  | Казыбек | Kazybek | M |
+| ...  | ... | ... | ... |
+| Үміт  | Умит | Umit | B |
+| ...  | ... | ... | ... |
 
 3. Some names can be both male and female (e.g., "Үміт"). In this case, the names are recorded with a "B" (for *both*) in the ***gender*** column.
 4. As of March 15 2023, the total number of names on the list is 5,211.
