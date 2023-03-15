@@ -29,4 +29,4 @@ The KazPER ['kæzpə(r)] repository contains a dataset of male and female names 
 4. As of March 15 2023, the total number of names on the list is 5,211.
 * 3,711 are male names,
 * 1,447 are female names,
-* 53 are female and male names.
+* 53 are both female and male names.
